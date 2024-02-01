@@ -30,7 +30,7 @@ import frontend from './Frontend.png';
 
 import discord from "./discord.png";
 import twitter from "./TWITTER.png";
-import AI from "./Ai.png";
+import AI from "./AI.png";
 import movie from "./Movie.png";
 import UV from "./UltraVerse.png";
 import Netflix from "./Netflix.png";
