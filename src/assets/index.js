@@ -25,10 +25,16 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import montclair from "./Montclair.png";
+import frontend from './Frontend.png';
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import discord from "./discord.png";
+import twitter from "./TWITTER.png";
+import AI from "./Ai.png";
+import movie from "./Movie.png";
+import UV from "./UltraVerse.png";
+import Netflix from "./Netflix.png";
+import Library from "./Library.png";
 
 export {
   logo,
@@ -56,7 +62,14 @@ export {
   shopify,
   starbucks,
   tesla,
-  carrent,
-  jobit,
-  tripguide,
+  discord,
+  twitter,
+  AI,
+  movie,
+  UV,
+  Netflix,
+  Library,
+  montclair,
+  frontend
+
 };

@@ -41,7 +41,8 @@ const About = () => {
     
 
     <motion.p variants={fadeIn("", "", 0.1, 1)} className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'>
-      Insert Overview Text Here
+    I'm a 23 year-old Dominican frontend software engineer with a strong passion for developing websites with great user experiences.
+I currently work on expanding my knowledge of tech stacks following industry best standards, with the goal of creating web applications that positively impact the world.
     </motion.p>
     
     <div className='mt-20 flex flex-wrap gap-10'>
