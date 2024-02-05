@@ -58,7 +58,6 @@ const ProjectCard = ({
             #{tag.name}
           </p>
         ))}
-
         </div>
       </Tilt>
     </motion.div>
