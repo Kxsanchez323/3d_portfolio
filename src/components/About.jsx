@@ -45,13 +45,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a 23 year-old Dominican software engineer with a strong passion for
-        developing web applications with great user experiences. I'm currently
-        looking for roles as a frontend developer or full stack developer. My
-        day to day consists of working on expanding my knowledge of tech stacks
-        following industry best standards, with the goal of creating web
-        applications that positively impact the world. I'm an advid gamer and I
-        one day dream of being able to work at SEGA.
+        A Software Engineer with a strong passion for developing web
+        applications with great user experiences. I'm actively pursing roles as
+        a Frontend or Full Stack Developer. Exponentially growing daily by
+        working on meaningful and impactful projects. I'm a 23 year old
+        Dominican avid gamer who dreams of one day working for SEGA.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
